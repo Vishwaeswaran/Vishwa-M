@@ -24,19 +24,19 @@
 
 ## 👨‍💻 About Me
 
-🎓 Final Year B.Tech – Artificial Intelligence & Data Science
+🎓 B.Tech Graduate in Artificial Intelligence & Data Science from RVS College of Engineering and Technology
 
-🏫 RVS College of Engineering and Technology
+💼 Software Intern @ Prism Software Solutions with hands-on experience in backend development, APIs, cloud technologies, and software engineering practices
 
-💼 Software Intern @ Prism Software Solutions
-
-🔐 Developed a Real-Time Cyber Threat Detection System with live monitoring, attack visualization, and automated alerts
+🔐 Developed a Real-Time Cyber Threat Detection System featuring live monitoring, attack visualization, threat analytics, and automated alert mechanisms
 
 🤖 Passionate about Artificial Intelligence, Machine Learning, Data Science, Cyber Security, and Cloud Computing
 
-🌱 Currently exploring FastAPI, Generative AI, MLOps, NLP, and Cloud Technologies
+🌱 Continuously exploring FastAPI, Generative AI, MLOps, NLP, Deep Learning, and Data Engineering
 
-🎯 Career Goal: Become a Data Scientist / AI Engineer and build impactful AI solutions
+📊 Interested in building intelligent systems that transform data into actionable insights
+
+🎯 Seeking opportunities in Data Science, AI Engineering, Machine Learning, and Software Development
 
 ---
 

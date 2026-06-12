@@ -1,11 +1,10 @@
-https://raw.githubusercontent.com/Vishwaeswaran/Vishwa-M/main/Vishwa%20.jpeg
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Vishwaeswaran/Vishwa-M/main/Vishwa%20.jpeg" width="220"/>
 
 # Vishweswaran M
 
-### 🚀 AI & DS Engineer | Enthusiast Student | Data Analyst
+### 🚀 AI & DS Engineer | Enthusiast Student | Data Analyst 
 
 <p>
   <a href="https://www.linkedin.com/in/vishweswaran-m-22ad59/">
@@ -61,7 +60,7 @@ FastAPI • REST APIs • JSON • Uvicorn
 
 ### Databases
 
-MySQL • SQLite • MongoDB • Firebase
+MySQL • SQLite  • Firebase
 
 ### Cloud & Big Data
 
@@ -124,9 +123,6 @@ Data analytics and reporting dashboard developed for business intelligence and d
 
 * Shortlisted for Enigma – IIT Madras
 * D2C Connect Hackathon 2024
-* EY Techathon 4.0
-* Hack the Horizon IEEE Hackathon
-* Smart Urban Flood Management Challenge
 
 ---
 
